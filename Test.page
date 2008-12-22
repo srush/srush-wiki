@@ -1,0 +1,7 @@
+This is a test page on the wiki
+
+~~~ {.haskell}
+
+test = "hello"
+
+~~~
